@@ -1,11 +1,13 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "3A8HNQGY2L.com.ithinkers.Shifu",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3A8HNQGY2L.com.ithinkers.Shifu",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
